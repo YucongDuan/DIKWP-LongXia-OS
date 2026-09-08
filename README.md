@@ -1,10 +1,12 @@
 # DIKWP LongXia OS
 
-**DIKWP LongXia OS** is an offline-first, GitHub-ready open-source semantic exoskeleton for Chinese DeepSeek users.
+Created by Yucong Duan (段玉聪).
+
+DIKWP LongXia OS is an offline-first, GitHub-ready open-source semantic exoskeleton for Chinese DeepSeek users.
 
 LongXia (龙虾) means: a small user with a hard semantic shell and two claws. The shell protects intent, evidence, privacy, and boundaries. The claws compile better prompts and audit model answers.
 
-This project does **not** bypass DeepSeek access rules, account limits, safety policies, paid plans, or compute quotas. It helps users prepare better prompts, compress context, preserve purpose, and repair weak answers when using any legally available DeepSeek interface.
+This project does not bypass DeepSeek access rules, account limits, safety policies, paid plans, or compute quotas. It helps users prepare better prompts, compress context, preserve purpose, and repair weak answers when using any legally available DeepSeek interface.
 
 ## Core idea
 
